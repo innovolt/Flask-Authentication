@@ -1,0 +1,6 @@
+Werkzeug
+python-secrets
+Flask
+db-sqlite3
+Flask-API
+pybase64
