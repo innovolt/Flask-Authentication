@@ -3,8 +3,8 @@ It is the implementation of flask server authentication using bearer token
 Steps to run the app
 --------------------
 1. Clone the git repo
-2. docker build -t <imagename> .
-3. docker run -p 5000:5000 <imagename>
+2. docker build -t <<imagename>> .
+3. docker run -p 5000:5000 <<imagename>>
 
 
 APIs supported by the Flask Server
